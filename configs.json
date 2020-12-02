@@ -1,0 +1,4 @@
+{"application_directory": "/var/okta", "logs_directory": "/var/okta/logs", "organization_url": "dev-505359.oktapreview.com",  "fba_api": "api-iamlab.wbsntest.net", "rose_api": "rose-iamlab.wbsntest.net", "mds1_api": "mds1-iamlab.wbsntest.net", "risk_level_groups": ["Risk_level_1", "Risk_level_2", "Risk_level_3", "Risk_level_4", "Risk_level_5"], "risk_level_manager_portal": "127.0.0.1:5001", "connector_portal": "127.0.0.1:5000", "user_app_portal": "127.0.0.1:5003",
+"org_token": "00PCmeGo2-VF0_08qrr", "org_name": "okta", "kafka_broker": "kafka-iamlab.wbsntest.net:9093", "kafka_topic_name": "ENTITY_RISK_LEVEL", "kafka_group_name": "okta_risk_level_ssl_test",
+"client-ca.cer": "/var/okta/key_store/client-ca.cer", "client.cer": "/var/okta/key_store/client.cer",
+"client.key": "/var/okta/key_store/client.key", "key_store_pass":  "changeme"}
